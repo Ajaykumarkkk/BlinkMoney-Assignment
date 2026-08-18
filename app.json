@@ -20,6 +20,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6a02cc4a-d903-4e2d-b7b1-2a1a49628306"
+      }
+    },
+    "owner": "ajayzendeveloper",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6a02cc4a-d903-4e2d-b7b1-2a1a49628306"
     }
   }
 }
